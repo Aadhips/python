@@ -1,3 +1,0 @@
-file=input("Enter file name")
-file1=file.split(".")
-print("extension is: ",file1[1])

@@ -1,3 +1,0 @@
-list1=['red','green','orange','blue']
-clr= list1[0], list1[-1]
-print("First color and last color is:"+ str(clr))
